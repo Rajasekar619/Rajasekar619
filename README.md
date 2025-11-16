@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajasekar619
-- 👀 I’m interested in everything which i found interesting
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m @Rajasekar619 Embedded Software | IOT | Python Develeloper
+- 👀 I’m interested in DIY projects, electronic arts , games etc
+  
 
 
 <!---
